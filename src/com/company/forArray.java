@@ -6,7 +6,6 @@ import java.util.Collections;
 import java.util.Random;
 
 public class forArray {
-    //private int[] arr;
     private ArrayList<Integer> arr = new ArrayList<Integer>();
     private int size = 0;
 

@@ -6,11 +6,6 @@ import java.util.ArrayList;
 public class Main {
 
     public static void main(String[] args) {
-	   // forArray arr = new forArray(new int[]{1,2,3,4,5});
-
-	   // arr.show();
-
-        //System.out.println(arr.size());
 
         forArray arr = new forArray(new ArrayList<Integer>(), 5);
         arr.init();
